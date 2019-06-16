@@ -1,0 +1,9 @@
+{
+  "name": "@visionlabs/prettier-config",
+  "version": "1.0.0",
+  "description": "Yet one more Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:atymchuk/prettier-config.git",
+  "author": "Alex Tymchuk <at3000@mail.ru>",
+  "license": "MIT"
+}
